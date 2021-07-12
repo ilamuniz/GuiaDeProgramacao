@@ -16,5 +16,7 @@ IDE, ou ambiente de desenvolvimento integrado, é um software que combina caract
 
 ### Ferramentas auxiliares
 Figma - Ferramenta para prototipagem
+
 Insomnia - Ferramenta para trabalhar com APIs
+
 Chrome DevTools - Ferramenta de Debugger
