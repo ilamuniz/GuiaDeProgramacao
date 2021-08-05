@@ -11,6 +11,10 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 ### O que são linguagens de programação?
 É uma linguagem formal que, através de uma série de instruções, permite ao programador passar instruções de processamento ao computador.
 
+<div align = "center">
+<img src="https://user-images.githubusercontent.com/36556279/128284472-867902b0-840a-43e6-9513-364269d814bc.png" width = "600px" />
+</div>
+
 ### O que são frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
