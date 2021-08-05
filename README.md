@@ -5,8 +5,14 @@
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
 
+### Noções básicas de algoritmos
+Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico.
+
 ### O que são linguagens de programação?
 É uma linguagem formal que, através de uma série de instruções, permite ao programador passar instruções de processamento ao computador.
+
+### O que são frameworks?
+Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
 ### O que é front-end e back-end?
 São termos para diferenciar onde uma pessoa que programa acaba se especializando. Quem trabalha com front-end desenvolve a interface que interage diretamente com o usuário. O desenvolvedor back-end trabalha com os sistemas que agem por trás dessa mesma aplicação.
