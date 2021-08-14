@@ -27,7 +27,7 @@ IDE, ou ambiente de desenvolvimento integrado, é um software que combina caract
 ### O que são bancos de dados?
 Bancos de dados ou bases de dados são coleções organizadas de dados que se relacionam de forma a criar algum sentido (informação) e dar mais eficiência durante uma pesquisa ou estudo científico. Existem vários Modelos de Base de Dados: Modelo Plano (ou tabular), Modelo em Rede, Modelo Hierárquico, Modelo Relacional, Orientado a objetos e Objeto-Relacional. 
 
-NoSQL ou "não relacional" é um termo genérico que representa os bancos de dados não relacionais. Uma classe definida de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais. Bancos de dados NoSQL são cada vez mais usados em big data e aplicações web de tempo real. 
+Bancos de dados NoSQL ou "não relacional" é um termo genérico que representa os bancos de dados não relacionais. Uma classe definida de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais. Bancos de dados NoSQL são cada vez mais usados em big data e aplicações web de tempo real. 
 
 Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, sendo baseados em um ramo da teoria dos conjuntos algébricos conhecido como álgebra relacional. Exemplos de bancos de dados relacionais: MySQL, PostgreSQL e SQLite3. Enquanto isso, bancos de dados não relacionais, como o MongoDB, representam dados em coleções de documentos JSON.
 
