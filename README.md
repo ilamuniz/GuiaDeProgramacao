@@ -34,6 +34,9 @@ Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, s
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
 ### Ferramentas auxiliares
+
+A seguir, algumas ferramentas complementares para auxiliar no trabalho:
+
 Figma - Ferramenta para prototipagem
 
 Insomnia - Ferramenta para trabalhar com APIs
