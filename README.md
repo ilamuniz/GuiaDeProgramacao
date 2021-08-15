@@ -1,6 +1,6 @@
 ## Guia básico de introdução à programação
 ### Definições, ferramentas auxiliares e dicas
-### <em construção>
+<em construção>
 
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
@@ -30,6 +30,8 @@ Bancos de dados ou bases de dados são coleções organizadas de dados que se re
 Bancos de dados NoSQL ou "não relacional" é um termo genérico que representa os bancos de dados não relacionais. Uma classe definida de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais. Bancos de dados NoSQL são cada vez mais usados em big data e aplicações web de tempo real. 
 
 Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, sendo baseados em um ramo da teoria dos conjuntos algébricos conhecido como álgebra relacional. Exemplos de bancos de dados relacionais: MySQL, PostgreSQL e SQLite3. Enquanto isso, bancos de dados não relacionais, como o MongoDB, representam dados em coleções de documentos JSON.
+
+Para ler: https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
