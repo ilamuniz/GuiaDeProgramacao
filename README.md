@@ -1,6 +1,6 @@
 ## Guia básico de introdução à programação
 ### Definições, ferramentas auxiliares e dicas
-<em construção>
+### <em construção>
 
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
