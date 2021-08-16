@@ -35,6 +35,14 @@ Para ler: https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
+### Listas de Atalhos de IDEs
+
+Intellij Idea - http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+
+Visual Studio Code - https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa
+
+Eclipse - https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html
+
 ### Ferramentas auxiliares
 
 A seguir, algumas ferramentas complementares para auxiliar no trabalho:
