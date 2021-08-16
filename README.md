@@ -37,11 +37,19 @@ Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados
 
 ### Listas de Atalhos de IDEs
 
-Intellij Idea - http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+#### Intellij Idea
 
-Visual Studio Code - https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa
+http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
 
-Eclipse - https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html
+#### Visual Studio Code
+
+https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa
+
+https://claudiojunior.me/posts/atalhos-do-vs-code
+
+#### Eclipse
+
+https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html
 
 ### Ferramentas auxiliares
 
