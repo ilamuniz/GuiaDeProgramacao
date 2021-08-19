@@ -75,8 +75,8 @@ https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html
 
 A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
-Figma - Ferramenta para prototipagem
+**Figma** - Ferramenta para prototipagem
 
-Insomnia - Ferramenta para trabalhar com APIs
+**Insomnia** - Ferramenta para trabalhar com APIs
 
-Chrome DevTools - Ferramenta de Debugger
+**Chrome DevTools** - Ferramenta de Debugger
