@@ -18,6 +18,8 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 ### O que são frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
+Lista de frameworks mais usados: https://www.digitalhouse.com/br/blog/frameworks-mais-usados-em-programacao
+
 ### O que é front-end e back-end?
 São termos para diferenciar onde uma pessoa que programa acaba se especializando. Quem trabalha com front-end desenvolve a interface que interage diretamente com o usuário. O desenvolvedor back-end trabalha com os sistemas que agem por trás dessa mesma aplicação.
 
