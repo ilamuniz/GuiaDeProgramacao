@@ -35,6 +35,24 @@ Para ler: https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
+### O que é GIT?
+
+O GIT é um Sistema de Controle de Versões Distribuído — ou DVCS — desenvolvido pelo engenheiro de software Linus Torvalds. Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+### O que é o Github?
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+### O que é o Gitlab?
+
+O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
+
+### O que é SSH?
+
+O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar serviços de rede com segurança em uma rede não segura. Os aplicativos típicos incluem linha de comando remota, login e execução de comando remoto, mas qualquer serviço de rede pode ser protegido com SSH.
+
+Para saber mais: https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/
+
 ### Listas de Atalhos de IDEs
 
 #### Intellij Idea
