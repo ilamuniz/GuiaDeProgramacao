@@ -15,6 +15,14 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 <img src="https://user-images.githubusercontent.com/36556279/128284472-867902b0-840a-43e6-9513-364269d814bc.png" width = "600px" />
 </div>
 
+### O que é um compilador?
+
+Um compilador é um programa de computador que, a partir de um código fonte escrito em uma linguagem compilada, cria um programa semanticamente equivalente, porém escrito em outra linguagem, código objeto.
+
+### O que é um interpretador?
+
+Interpretadores são programas de computador que leem um código fonte de uma linguagem de programação interpretada e o converte em código executável. Ao contrário do compilador, o interpretador roda o código-fonte escrito como sendo o código objeto, ele traduz o programa linha a linha, o programa vai sendo utilizado na medida em que vai sendo traduzido. Cada execução do programa precisa ser novamente traduzido e interpretado.
+
 ### O que são frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
@@ -37,7 +45,7 @@ Para ler: https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
-### O que é GIT?
+### O que é o GIT?
 
 O GIT é um Sistema de Controle de Versões Distribuído — ou DVCS — desenvolvido pelo engenheiro de software Linus Torvalds. Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
 
