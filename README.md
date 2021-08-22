@@ -15,6 +15,10 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 <img src="https://user-images.githubusercontent.com/36556279/128284472-867902b0-840a-43e6-9513-364269d814bc.png" width = "600px" />
 </div>
 
+### O que é um sistema operacional?
+
+Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador.
+
 ### O que é um compilador?
 
 Um compilador é um programa de computador que, a partir de um código fonte escrito em uma linguagem compilada, cria um programa semanticamente equivalente, porém escrito em outra linguagem, código objeto.
