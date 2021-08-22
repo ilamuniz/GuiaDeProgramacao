@@ -63,6 +63,8 @@ O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar s
 
 Para saber mais: https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/
 
+## Informações complementares
+
 ### Listas de Atalhos de IDEs
 
 #### Intellij Idea
