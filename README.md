@@ -30,7 +30,7 @@ Interpretadores são programas de computador que leem um código fonte de uma li
 ### O que são frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
-Lista de frameworks mais usados: https://www.digitalhouse.com/br/blog/frameworks-mais-usados-em-programacao
+[Lista de frameworks mais usados](https://www.digitalhouse.com/br/blog/frameworks-mais-usados-em-programacao)
 
 ### O que é front-end e back-end?
 São termos para diferenciar onde uma pessoa que programa acaba se especializando. Quem trabalha com front-end desenvolve a interface que interage diretamente com o usuário. O desenvolvedor back-end trabalha com os sistemas que agem por trás dessa mesma aplicação.
@@ -45,7 +45,7 @@ Bancos de dados NoSQL ou "não relacional" é um termo genérico que representa 
 
 Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, sendo baseados em um ramo da teoria dos conjuntos algébricos conhecido como álgebra relacional. Exemplos de bancos de dados relacionais: MySQL, PostgreSQL e SQLite3. Enquanto isso, bancos de dados não relacionais, como o MongoDB, representam dados em coleções de documentos JSON.
 
-Para ler: https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/
+[Bancos de Dados Relacionais ou não Relacionais?](https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/)
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
@@ -61,11 +61,11 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 
 O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
 
-### O que é SSH?
+### O que é o SSH?
 
 O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar serviços de rede com segurança em uma rede não segura. Os aplicativos típicos incluem linha de comando remota, login e execução de comando remoto, mas qualquer serviço de rede pode ser protegido com SSH.
 
-Para saber mais: https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/
+Para saber mais sobre [o que é o SSH?](https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/)
 
 ## Informações complementares
 
@@ -73,17 +73,17 @@ Para saber mais: https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/
 
 #### Intellij Idea
 
-http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+[Atalhos do Intellij Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
 
 #### Visual Studio Code
 
-https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa
+[Todos os atalhos do VS Code](https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa)
 
-https://claudiojunior.me/posts/atalhos-do-vs-code
+[Atalhos do VS Code](https://claudiojunior.me/posts/atalhos-do-vs-code)
 
 #### Eclipse
 
-https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html
+[Eclipse Shortcuts](https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html)
 
 ### Ferramentas auxiliares
 
