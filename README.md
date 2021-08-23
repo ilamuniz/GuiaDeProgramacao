@@ -27,7 +27,7 @@ Um compilador é um programa de computador que, a partir de um código fonte esc
 
 Interpretadores são programas de computador que leem um código fonte de uma linguagem de programação interpretada e o converte em código executável. Ao contrário do compilador, o interpretador roda o código-fonte escrito como sendo o código objeto, ele traduz o programa linha a linha, o programa vai sendo utilizado na medida em que vai sendo traduzido. Cada execução do programa precisa ser novamente traduzido e interpretado.
 
-### O que são frameworks?
+### O que são os frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
 
 [Lista de frameworks mais usados](https://www.digitalhouse.com/br/blog/frameworks-mais-usados-em-programacao)
@@ -38,14 +38,14 @@ São termos para diferenciar onde uma pessoa que programa acaba se especializand
 ### O que são IDEs?
 IDE, ou ambiente de desenvolvimento integrado, é um software que combina características e ferramentas de apoio ao desenvolvimento de software com o objetivo de agilizar este processo.
 
-### O que são bancos de dados?
+### O que são os bancos de dados?
 Bancos de dados ou bases de dados são coleções organizadas de dados que se relacionam de forma a criar algum sentido (informação) e dar mais eficiência durante uma pesquisa ou estudo científico. Existem vários Modelos de Base de Dados: Modelo Plano (ou tabular), Modelo em Rede, Modelo Hierárquico, Modelo Relacional, Orientado a objetos e Objeto-Relacional. 
 
 Bancos de dados NoSQL ou "não relacional" é um termo genérico que representa os bancos de dados não relacionais. Uma classe definida de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais. Bancos de dados NoSQL são cada vez mais usados em big data e aplicações web de tempo real. 
 
 Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, sendo baseados em um ramo da teoria dos conjuntos algébricos conhecido como álgebra relacional. Exemplos de bancos de dados relacionais: MySQL, PostgreSQL e SQLite3. Enquanto isso, bancos de dados não relacionais, como o MongoDB, representam dados em coleções de documentos JSON.
 
-[Bancos de Dados Relacionais ou não Relacionais?](https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/)
+[Banco de Dados Relacional ou não Relacional?](https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/)
 
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
 
