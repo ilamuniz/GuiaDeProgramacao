@@ -45,9 +45,9 @@ Bancos de dados NoSQL ou "não relacional" é um termo genérico que representa 
 
 Bancos de dados relacionais representam e armazenam dados em tabelas e linhas, sendo baseados em um ramo da teoria dos conjuntos algébricos conhecido como álgebra relacional. Exemplos de bancos de dados relacionais: MySQL, PostgreSQL e SQLite3. Enquanto isso, bancos de dados não relacionais, como o MongoDB, representam dados em coleções de documentos JSON.
 
-[Banco de Dados Relacional ou não Relacional?](https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/)
-
 Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados (SGBD).
+
+[Banco de Dados Relacional ou não Relacional?](https://www.iperiusbackup.net/pt-br/qual-a-solucao-mais-adequada-banco-de-dados-relacional-ou-nao-relacional/)
 
 ### O que é o GIT?
 
