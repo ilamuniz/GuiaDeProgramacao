@@ -19,6 +19,8 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 
 Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis, como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
 
+Cada sistema operacional utiliza um tipo de sistema de arquivo, que é um conjunto de rotinas e estruturas lógicas para possibilitar ao sistema operacional controlar o acesso às informações do disco rígido. As informações são armazenadas no disco rígido em trilhas e setores, mas o sistema operacional reconhece apenas uma lista de endereços conhecidos como clusters, que são conjuntos de setores. Assim, quando o sistema operacional necessita de um determinado arquivo, ele envia o endereço do cluster que deve ser lido e controladora do disco rígido faz o restante. O sistema NTFS é utilizado pela Microsoft nas versões atuais do Windows. O sistema Ext foi criaod para ser utilizado pelo sistema operacional Linux.
+
 ### O que é um compilador?
 
 Um compilador é um programa de computador que, a partir de um código fonte escrito em uma linguagem compilada, cria um programa semanticamente equivalente, porém escrito em outra linguagem, código objeto.
