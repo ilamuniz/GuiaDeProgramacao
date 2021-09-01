@@ -17,7 +17,7 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 
 ### O que é um sistema operacional?
 
-Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador.
+Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis, como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
 
 ### O que é um compilador?
 
