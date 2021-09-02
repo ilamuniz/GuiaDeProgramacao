@@ -23,11 +23,11 @@ Cada sistema operacional utiliza um tipo de sistema de arquivo, que é um conjun
 
 ### O que é um compilador?
 
-Um compilador é um programa de computador que, a partir de um código fonte escrito em uma linguagem compilada, cria um programa semanticamente equivalente, porém escrito em outra linguagem, código objeto.
+Um compilador é um programa de computador que, a partir de um código-fonte escrito em uma linguagem compilada, cria um programa semanticamente equivalente, porém escrito em outra linguagem, código objeto.
 
 ### O que é um interpretador?
 
-Interpretadores são programas de computador que leem um código fonte de uma linguagem de programação interpretada e o converte em código executável. Ao contrário do compilador, o interpretador roda o código-fonte escrito como sendo o código objeto, ele traduz o programa linha a linha, o programa vai sendo utilizado na medida em que vai sendo traduzido. Cada execução do programa precisa ser novamente traduzido e interpretado.
+Interpretadores são programas de computador que leem um código-fonte de uma linguagem de programação interpretada e o converte em código executável. Ao contrário do compilador, o interpretador roda o código-fonte escrito como sendo o código objeto, ele traduz o programa linha a linha, o programa vai sendo utilizado na medida em que vai sendo traduzido. Cada execução do programa precisa ser novamente traduzido e interpretado.
 
 ### O que são os frameworks?
 Em desenvolvimento de software, é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites.
