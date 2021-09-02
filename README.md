@@ -67,7 +67,7 @@ O GitLab é um gerenciador de repositório de software baseado em git, com supor
 
 O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar serviços de rede com segurança em uma rede não segura. Os aplicativos típicos incluem linha de comando remota, login e execução de comando remoto, mas qualquer serviço de rede pode ser protegido com SSH.
 
-Para saber mais sobre [o que é o SSH?](https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/)
+Para saber mais sobre [o que é o SSH](https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/)
 
 ## Informações complementares
 
