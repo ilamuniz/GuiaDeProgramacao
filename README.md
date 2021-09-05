@@ -69,6 +69,18 @@ O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar s
 
 Para saber mais sobre [o que é o SSH](https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/)
 
+### O que é uma rede de computadores?
+
+Rede de computadores é uma malha que interliga milhares de sistemas computacionais para a transmissão de dados. Também conhecidos como nós, esses dispositivos interconectados enviam, recebem e trocam tráfego de dados, voz e vídeo, graças ao hardware e software que compõe o ambiente.
+
+### O que é uma porta de rede?
+
+Em redes de computadores, uma porta é um software de aplicação específica ou processo específico servindo de ponto final de comunicações em um sistema operacional hospedeiro de um computador. Uma porta tem associação com o endereço de IP do hospedeiro, assim como o tipo de protocolo usado para comunicação. O propósito das portas é para singularmente identificar aplicações e processos de um único computador e assim possibilitá-los a compartilhar uma única conexão física com uma rede de comutação de pacotes, como a internet.
+
+Os protocolos que usam principalmente portas são os protocolos da camada de transporte, tais como o Protocolo de controle de transmissão (TCP) e User Datagram Protocol (UDP) do conjunto de protocolos da internet. A porta é identificada por um protocolo, com um número de 16 bits, vulgarmente conhecido como port number(número de porta). O port number é adicionado a um endereço de IP do computador, completando o endereço de destino para uma sessão de comunicação. Isto é, os pacotes de dados são encaminhados através da rede para um endereço de IP de destino especifico, e em seguida, ao atingir o computador de destino, são encaminhados para o processo especifico ligado ao número de porta de destino. 
+
+[Lista de portas dos protocolos TCP e UDP](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
+
 ## Informações complementares
 
 ### Listas de Atalhos de IDEs
