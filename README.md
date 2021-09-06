@@ -95,7 +95,7 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 [Atalhos do VS Code](https://claudiojunior.me/posts/atalhos-do-vs-code)
 
-### Apache Maven (ferramenta de automação e gerenciamento de projetos Java)
+#### Apache Maven (ferramenta de automação e gerenciamento de projetos Java)
 
 [Comandos úteis no Maven](https://gist.github.com/erkobridee/3287943)
 
