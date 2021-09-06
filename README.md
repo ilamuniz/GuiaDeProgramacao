@@ -83,7 +83,7 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 ## Informações complementares
 
-### Listas de Atalhos de IDEs
+### Listas de Atalhos de IDEs e demais ferramentas
 
 #### Intellij Idea
 
@@ -94,6 +94,10 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 [Todos os atalhos do VS Code](https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa)
 
 [Atalhos do VS Code](https://claudiojunior.me/posts/atalhos-do-vs-code)
+
+### Apache Maven (ferramenta de automação e gerenciamento de projetos Java)
+
+[Comandos úteis no Maven](https://gist.github.com/erkobridee/3287943)
 
 #### Eclipse
 
