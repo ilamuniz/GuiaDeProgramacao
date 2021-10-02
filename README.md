@@ -112,3 +112,7 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 **Insomnia** - Ferramenta para trabalhar com APIs
 
 **Chrome DevTools** - Ferramenta de Debugger
+
+**Jira** - Ferramenta de gestão ágil de projetos
+
+**Confluence** - Software de documentação colaborativa
