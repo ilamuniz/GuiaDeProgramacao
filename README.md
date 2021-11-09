@@ -81,6 +81,16 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 [Lista de portas dos protocolos TCP e UDP](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
 
+### Métodos Ágeis
+
+**SCRUM** - é uma estrutura de gestão de projetos de agilidade. As equipes utilizam para desenvolver, entregar e sustentar produtos em um ambiente complexo, com ênfase no desenvolvimento de software, mas já tendo sido utilizado em outras áreas. O Scrum descreve um conjunto de reuniões, ferramentas e cargos que atuam juntos para ajudar na organização e gerenciamento de trabalho das equipes.
+
+**KANBAN** - é um quadro de sinalização com cartões coloridos (post-its) que controla os fluxos de produção ou transporte em uma indústria. Os cartões servem para indicar e acompanhar o andamento das tarefas conforme elas se movem pelo processo. O termo "Kanban" é de origem japonesa e quer dizer "sinalização" ou "cartão".
+
+**PDCA** - é uma metodologia de gestão de quatro passos, utilizado para o controle e melhoria contínua de processos e produtos. É também conhecido como círculo/ciclo/roda de Deming, ciclo de Shewhart, círculo/ciclo de controle ou PDSA.
+
+**Lean** - Lean manufacturing ou Lean production significa manufatura enxuta ou manufatura esbelta e é uma filosofia de gestão vinda do Sistema Toyota de Produção cuja premissa é focada na redução dos sete tipos de desperdícios.
+
 ## Informações complementares
 
 ### Listas de Atalhos de IDEs e demais ferramentas
@@ -102,16 +112,6 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 #### Eclipse
 
 [Eclipse Shortcuts](https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html)
-
-### Métodos Ágeis
-
-**SCRUM** - é uma estrutura de gestão de projetos de agilidade. As equipes utilizam para desenvolver, entregar e sustentar produtos em um ambiente complexo, com ênfase no desenvolvimento de software, mas já tendo sido utilizado em outras áreas. O Scrum descreve um conjunto de reuniões, ferramentas e cargos que atuam juntos para ajudar na organização e gerenciamento de trabalho das equipes.
-
-**KANBAN** - é um quadro de sinalização com cartões coloridos (post-its) que controla os fluxos de produção ou transporte em uma indústria. Os cartões servem para indicar e acompanhar o andamento das tarefas conforme elas se movem pelo processo. O termo "Kanban" é de origem japonesa e quer dizer "sinalização" ou "cartão".
-
-**PDCA** - é uma metodologia de gestão de quatro passos, utilizado para o controle e melhoria contínua de processos e produtos. É também conhecido como círculo/ciclo/roda de Deming, ciclo de Shewhart, círculo/ciclo de controle ou PDSA.
-
-**Lean** - Lean manufacturing ou Lean production significa manufatura enxuta ou manufatura esbelta e é uma filosofia de gestão vinda do Sistema Toyota de Produção cuja premissa é focada na redução dos sete tipos de desperdícios.
 
 ### Ferramentas auxiliares
 
