@@ -5,8 +5,8 @@
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
 
-### Noções básicas de algoritmos
-Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico.
+### O que são algoritmos?
+Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico. É um conjunto de instruções estruturadas e ordenadas com o objetivo de realizar uma tarefa ou operação específica. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
 
 ### O que são linguagens de programação?
 É uma linguagem formal que, através de uma série de instruções, permite ao programador passar instruções de processamento ao computador.
@@ -20,6 +20,14 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis, como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
 
 Cada sistema operacional utiliza um tipo de sistema de arquivo, que é um conjunto de rotinas e estruturas lógicas para possibilitar ao sistema operacional controlar o acesso às informações do disco rígido. As informações são armazenadas no disco rígido em trilhas e setores, mas o sistema operacional reconhece apenas uma lista de endereços conhecidos como clusters, que são conjuntos de setores. Assim, quando o sistema operacional necessita de um determinado arquivo, ele envia o endereço do cluster que deve ser lido e a controladora do disco rígido faz o restante. O sistema NTFS é utilizado pela Microsoft nas versões atuais do Windows. O sistema Ext foi criado para ser utilizado pelo sistema operacional Linux.
+
+### O que são estruturas de dados?
+
+É uma estrutura que armazena e organiza dados/informações de modo que os dados possam ser acessados e manipulados de forma eficiente. Essas estruturas encontram muitas aplicações no desenvolvimento e sistemas, sendo que algumas são altamente especializadas e utilizadas em tarefas específicas. Usando as estruturas adequadas através de algoritmos, podemos trabalhar com uma grande quantidade de dados, como aplicações em bancos de dados ou serviços de busca.
+
+### Principais Estruturas de Dados
+
+Vetores e Matrizes, Registro, Lista, Pilha, Fila, Árvore, Tabela Hash, Grafos
 
 ### O que é um compilador?
 
