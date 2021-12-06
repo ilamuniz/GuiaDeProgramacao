@@ -21,6 +21,7 @@
 - ☁️ O que é uma rede de computadores?
 - 🚪 O que é uma porta de rede?
 - ⚡ Métodos Ágeis
+- 📋 Informações complementares e links úteis
 - ☀️ Listas de Atalhos de IDEs e demais ferramentas
 - 🔨 Ferramentas auxiliares
 
@@ -121,7 +122,7 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 **Lean** - Lean manufacturing ou Lean production significa manufatura enxuta ou manufatura esbelta e é uma filosofia de gestão vinda do Sistema Toyota de Produção cuja premissa é focada na redução dos sete tipos de desperdícios.
 
-## Informações complementares
+## Informações complementares e links úteis
 
 ### Listas de Atalhos de IDEs e demais ferramentas
 
