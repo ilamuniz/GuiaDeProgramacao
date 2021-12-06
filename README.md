@@ -2,6 +2,28 @@
 ### Definições, ferramentas auxiliares e dicas
 <em construção>
 
+### Índice
+- O que faz um programador?
+- O que são algoritmos?
+- O que são linguagens de programação?
+- O que é um sistema operacional?
+- O que são estruturas de dados?
+- O que é um compilador?
+- O que é um interpretador?
+- O que são frameworks?
+- O que é front-end e back-end?
+- O que são IDEs?
+- O que são os bancos de dados?
+- O que é o GIT?
+- O que é o Github?
+- O que é o Gitlab?
+- O que é o SSH?
+- O que é uma rede de computadores?
+- O que é uma porta de rede?
+- Métodos Ágeis
+- Listas de Atalhos de IDEs e demais ferramentas
+- Ferramentas auxiliares
+
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
 
