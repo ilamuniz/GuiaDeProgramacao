@@ -156,11 +156,23 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
+#### Ferramentas de Design
+
+[**Canva**](https://www.canva.com/pt_br/) - Ferramenta de design online.
+
+[**Colors and Fonts**](https://www.colorsandfonts.com/) - Paleta de cores e tipografia.
+
+[**Devicon**](https://devicon.dev/) - Conjunto de ícones que representam linguagens de programação, ferramentas de design e desenvolvimento.
+
 [**Figma**](https://www.figma.com/) - Editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
+
+#### Ferramentas de Desenvolvimento
 
 [**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
 [**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) - Conjunto de ferramentas de criação e depuração da web integradas ao Google Chrome.
+
+#### Ferramentas de Gestão
 
 [**Jira**](https://www.atlassian.com/br/software/jira) - Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades em único lugar.
 
