@@ -128,9 +128,13 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 #### Intellij Idea
 
+[Download do Intellij](https://www.jetbrains.com/pt-br/idea/download/#section=linux)
+
 [Atalhos do Intellij Idea](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
 
 #### Visual Studio Code
+
+[Download VS Code](https://code.visualstudio.com/download)
 
 [Todos os atalhos do VS Code](https://pt.linkedin.com/pulse/todos-os-atalhos-do-vs-code-mateus-barbosa)
 
@@ -138,9 +142,13 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 #### Apache Maven (ferramenta de automação e gerenciamento de projetos Java)
 
+[Download do Maven](https://maven.apache.org/download.cgi)
+
 [Comandos úteis no Maven](https://gist.github.com/erkobridee/3287943)
 
 #### Eclipse
+
+[Download do Eclipse](https://www.eclipse.org/downloads/)
 
 [Eclipse Shortcuts](https://www.w3big.com/pt/eclipse/eclipse-shortcuts.html)
 
@@ -148,12 +156,12 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
-**Figma** - Ferramenta para prototipagem
+[**Figma**](https://www.figma.com/) - Editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 
-**Insomnia** - Ferramenta para trabalhar com APIs
+[**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
-**Chrome DevTools** - Ferramenta de Debugger
+[**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) - Conjunto de ferramentas de criação e depuração da web integradas ao Google Chrome.
 
-**Jira** - Ferramenta de gestão ágil de projetos
+[**Jira**](https://www.atlassian.com/br/software/jira) - Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades em único lugar.
 
-**Confluence** - Software de documentação colaborativa
+[**Confluence**](https://www.atlassian.com/br/software/confluence) - Software de documentação colaborativa
