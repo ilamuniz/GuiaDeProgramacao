@@ -162,11 +162,17 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Colors and Fonts**](https://www.colorsandfonts.com/) - Paleta de cores e tipografia.
 
+[**Coolors**](https://coolors.co/) - Monte sua própria paleta de cores.
+
 [**Devicon**](https://devicon.dev/) - Conjunto de ícones que representam linguagens de programação, ferramentas de design e desenvolvimento.
 
 [**Figma**](https://www.figma.com/) - Editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows.
 
+[**Github Icons**](https://gist.github.com/rxaviers/7360908) - Ícones para usar no Github.
+
 #### Ferramentas de Desenvolvimento
+
+[**Bootstrap**](https://getbootstrap.com/) - Framework CSS.
 
 [**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
