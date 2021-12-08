@@ -158,6 +158,8 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 #### Ferramentas de Design
 
+[**AvePDF**](https://avepdf.com/pt) - Ferramentas online gratuitas para PDF e documentos.
+
 [**Canva**](https://www.canva.com/pt_br/) - Ferramenta de design online.
 
 [**Colors and Fonts**](https://www.colorsandfonts.com/) - Paleta de cores e tipografia.
