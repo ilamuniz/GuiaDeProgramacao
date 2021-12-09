@@ -176,14 +176,16 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Bootstrap**](https://getbootstrap.com/) - Framework CSS.
 
+[**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) - Conjunto de ferramentas de criação e depuração da web integradas ao Google Chrome.
+
 [**Github Gist**](https://gist.github.com/) - Para fazer pequenas anotações e pequenos códigos no GitHub Gist
 
 [**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
-[**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) - Conjunto de ferramentas de criação e depuração da web integradas ao Google Chrome.
+[**JSON Editor Online**](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
 
 #### Ferramentas de Gestão
 
-[**Jira**](https://www.atlassian.com/br/software/jira) - Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades em único lugar.
-
 [**Confluence**](https://www.atlassian.com/br/software/confluence) - Software de documentação colaborativa
+
+[**Jira**](https://www.atlassian.com/br/software/jira) - Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades em único lugar.
