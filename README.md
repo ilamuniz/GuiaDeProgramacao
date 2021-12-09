@@ -160,6 +160,8 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**AvePDF**](https://avepdf.com/pt) - Ferramentas online gratuitas para PDF e documentos.
 
+[**Font Awesome**](https://fontawesome.com/) - Biblioteca de ícones vetoriais
+
 [**Canva**](https://www.canva.com/pt_br/) - Ferramenta de design online.
 
 [**Colors and Fonts**](https://www.colorsandfonts.com/) - Paleta de cores e tipografia.
@@ -189,3 +191,9 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 [**Confluence**](https://www.atlassian.com/br/software/confluence) - Software de documentação colaborativa
 
 [**Jira**](https://www.atlassian.com/br/software/jira) - Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as atividades em único lugar.
+
+[**Notion**](https://www.notion.so/login) - Notas e gerenciamento de projetos online
+
+[**Pipefy**](https://www.pipefy.com/pt-br/) - Gerenciador de projetos
+
+[**Trello**](https://trello.com/) - Gerenciamento seus projetos com quadros
