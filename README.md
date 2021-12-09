@@ -176,6 +176,8 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Bootstrap**](https://getbootstrap.com/) - Framework CSS.
 
+[**Github Gist**](https://gist.github.com/) - Para fazer pequenas anotações e pequenos códigos no GitHub Gist
+
 [**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
 [**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) - Conjunto de ferramentas de criação e depuração da web integradas ao Google Chrome.
