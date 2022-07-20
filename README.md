@@ -112,6 +112,8 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 
 [Lista de portas dos protocolos TCP e UDP](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
 
+[Artigo sobre escalabilidade e performance](https://www.linkedin.com/pulse/20141120153113-36733727-how-to-start-to-learn-high-scalability/)
+
 ### Métodos Ágeis
 
 **SCRUM** - é uma estrutura de gestão de projetos de agilidade. As equipes utilizam para desenvolver, entregar e sustentar produtos em um ambiente complexo, com ênfase no desenvolvimento de software, mas já tendo sido utilizado em outras áreas. O Scrum descreve um conjunto de reuniões, ferramentas e cargos que atuam juntos para ajudar na organização e gerenciamento de trabalho das equipes.
