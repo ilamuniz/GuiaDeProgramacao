@@ -197,6 +197,8 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**JSON Editor Online**](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
 
+[**Spring Initializr**](https://start.spring.io/) - Fornece uma interface web simples para gerar seu projeto a partir de uma estrutura de configurações pré-moldadas de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
+
 [**Swagger Editor**](https://editor.swagger.io/) - Ferramenta online que permite criar manualmente a documentação da API. Ao utilizar YAML, faz com que o desenvolvedor não tenha dificuldades em descrever os seus serviços.
 
 #### Ferramentas de Gestão
