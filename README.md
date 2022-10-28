@@ -21,6 +21,7 @@
 - ☁️ O que é uma rede de computadores?
 - 🚪 O que é uma porta de rede?
 - ⚡ Métodos Ágeis
+- :pencil2: Padroẽs de Projeto (Design Patterns)
 - 📋 Informações complementares e links úteis
 - ☀️ Listas de Atalhos de IDEs e demais ferramentas
 - 🔨 Ferramentas auxiliares
@@ -123,6 +124,12 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 **PDCA** - é uma metodologia de gestão de quatro passos, utilizado para o controle e melhoria contínua de processos e produtos. É também conhecido como círculo/ciclo/roda de Deming, ciclo de Shewhart, círculo/ciclo de controle ou PDSA.
 
 **Lean** - Lean manufacturing ou Lean production significa manufatura enxuta ou manufatura esbelta e é uma filosofia de gestão vinda do Sistema Toyota de Produção cuja premissa é focada na redução dos sete tipos de desperdícios.
+
+## Padrões de Projeto
+
+Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software. Cada padrão é como uma planta de construção que você pode customizar para resolver um problema de projeto particular em seu código.
+
+Saiba mais [aqui](https://refactoring.guru/pt-br/design-patterns)
 
 ## Informações complementares e links úteis
 
