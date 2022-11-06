@@ -183,6 +183,10 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Github Icons**](https://gist.github.com/rxaviers/7360908) - Ícones para usar no Github.
 
+[**List of Github Markdown Emojis**](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) - lista de emojis para arquivo markdown.
+
+[**Markdown Guide**](https://www.markdownguide.org/basic-syntax/) - Guia da sintaxe de arquivos markdown.
+
 #### Ferramentas de Desenvolvimento
 
 [**Bootstrap**](https://getbootstrap.com/) - Framework CSS.
