@@ -87,6 +87,8 @@ Os bancos de dados são operados pelos Sistemas Gerenciadores de Bancos de Dados
 
 O GIT é um Sistema de Controle de Versões Distribuído — ou DVCS — desenvolvido pelo engenheiro de software Linus Torvalds. Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
 
+[**Comandos GIT**](https://gitfichas.com/)
+
 ### O que é o Github?
 
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
