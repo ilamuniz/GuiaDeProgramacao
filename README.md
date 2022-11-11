@@ -201,7 +201,9 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Insomnia**](https://insomnia.rest/download) - Ferramenta cliente de API REST, como o Postman, mas tem alguns recursos adicionais, como suporte a GraphQL, gRPC, entre outros.
 
-[**JSON Editor Online**](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON
+[**JSON Editor Online**](https://jsoneditoronline.org/) - Ferramenta para visualizar e editar arquivos JSON.
+
+[**PageSpeed Insights**](https://pagespeed.web.dev) - Também conhecido como PSI, é uma ferramenta online do Google que avalia a velocidade de carregamento de páginas da web.
 
 [**Spring Initializr**](https://start.spring.io/) - Fornece uma interface web simples para gerar seu projeto a partir de uma estrutura de configurações pré-moldadas de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
 
