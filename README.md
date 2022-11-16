@@ -209,6 +209,8 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**Swagger Editor**](https://editor.swagger.io/) - Ferramenta online que permite criar manualmente a documentação da API. Ao utilizar YAML, faz com que o desenvolvedor não tenha dificuldades em descrever os seus serviços.
 
+[**Como instalar o Postman no Linux**](https://terminalroot.com.br/2021/02/como-instalar-o-postman-no-ubuntu-e-em-qualquer-distro-linux.html)
+
 #### Ferramentas de Gestão
 
 [**Confluence**](https://www.atlassian.com/br/software/confluence) - Software de documentação colaborativa
