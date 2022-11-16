@@ -205,11 +205,13 @@ A seguir, algumas ferramentas complementares para auxiliar no trabalho:
 
 [**PageSpeed Insights**](https://pagespeed.web.dev) - Também conhecido como PSI, é uma ferramenta online do Google que avalia a velocidade de carregamento de páginas da web.
 
+[**Postman**](https://www.postman.com/) - Plataforma de API para desenvolvedores projetar, construir, testar e iterar suas APIs.
+
+[**Como instalar o Postman no Linux**](https://terminalroot.com.br/2021/02/como-instalar-o-postman-no-ubuntu-e-em-qualquer-distro-linux.html)
+
 [**Spring Initializr**](https://start.spring.io/) - Fornece uma interface web simples para gerar seu projeto a partir de uma estrutura de configurações pré-moldadas de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
 
 [**Swagger Editor**](https://editor.swagger.io/) - Ferramenta online que permite criar manualmente a documentação da API. Ao utilizar YAML, faz com que o desenvolvedor não tenha dificuldades em descrever os seus serviços.
-
-[**Como instalar o Postman no Linux**](https://terminalroot.com.br/2021/02/como-instalar-o-postman-no-ubuntu-e-em-qualquer-distro-linux.html)
 
 #### Ferramentas de Gestão
 
