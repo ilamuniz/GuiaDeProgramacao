@@ -39,6 +39,8 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 <img src="https://user-images.githubusercontent.com/36556279/128284472-867902b0-840a-43e6-9513-364269d814bc.png" width = "600px" />
 </div>
 
+Linguagens de programação precisam ser instaladas como se pode ver nesse [tutorial para instalar o JDK da linguagem Java no Windows.](https://techexpert.tips/pt-br/windows-pt-br/instalar-java-jdk-no-windows/#:~:text=Tutorial%20Windows%20-%20Instalar%20Java%20JDK%20Acesse%20o,Next.%20Aguarde%20a%20finaliza%C3%A7%C3%A3o%20da%20instala%C3%A7%C3%A3o%20Java%20JDK.)
+
 ### O que é um sistema operacional?
 
 Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis, como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
