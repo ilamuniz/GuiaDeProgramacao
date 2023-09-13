@@ -6,6 +6,7 @@
 - 💻 O que faz um programador?
 - 📄 O que são algoritmos?
 - 📧 O que são linguagens de programação?
+- 🔎 O que são paradigmas de programação?
 - 📁 O que é um sistema operacional?
 - 📈 O que são estruturas de dados?
 - 🎁 O que é um compilador?
@@ -40,6 +41,23 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 </div>
 
 Linguagens de programação geraalmente precisam ser instaladas como se pode ver nesse [tutorial para instalar o JDK da linguagem Java no Windows.](https://techexpert.tips/pt-br/windows-pt-br/instalar-java-jdk-no-windows/#:~:text=Tutorial%20Windows%20-%20Instalar%20Java%20JDK%20Acesse%20o,Next.%20Aguarde%20a%20finaliza%C3%A7%C3%A3o%20da%20instala%C3%A7%C3%A3o%20Java%20JDK.)
+
+### O que são paradigmas de programação?
+
+Um paradigma de programação é um estilo de programação ou um tipo de estruturação ao qual a linguagem deverá respeitar. Da mesma maneira que existem diversas linguagens de programação, temos também diversas formas de programar. Se trata da forma como você soluciona problemas utilizando determinada linguagem.
+
+Alguns paradigmas de programação existentes:
+## Paradigma Imperativo
+Neste paradigma, também chamado de procedural, o programador escreve uma lista de instruções, um passo-a-passo e sequência do que deverá ser executado pela máquina.
+
+## Paradigma Funcional
+A base deste paradigma é a execução de uma série de funções, ou seja, uma série de blocos de código.
+
+## Paradigma Lógico
+Este paradigma utiliza avaliações lógico-matemáticas como padrões de entrada e saída.
+
+## Paradigma Orientado a Objetos
+A programação orientada a objetos surgiu com o objetivo de aproximar a programação do mundo real, trazendo os objetos como algo genérico que pode representar algo do nosso mundo real e categorizados em tipos.
 
 ### O que é um sistema operacional?
 
