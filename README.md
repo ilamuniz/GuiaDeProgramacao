@@ -19,6 +19,7 @@
 - :octocat: O que é o Github?
 - 🚀 O que é o Gitlab?
 - 🔑 O que é o SSH?
+- 👉 O que é o HTTP?
 - ☁️ O que é uma rede de computadores?
 - 🚪 O que é uma porta de rede?
 - ⚡ Métodos Ágeis
@@ -31,7 +32,7 @@
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
 
 ### O que são algoritmos?
-Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico. É um conjunto de instruções estruturadas e ordenadas com o objetivo de realizar uma tarefa ou operação específica. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
+Programar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico. É um conjunto de instruções estruturadas e ordenadas com o objetivo de realizar uma tarefa ou operação específica. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
 
 ### O que são linguagens de programação?
 É uma linguagem formal que, através de uma série de instruções, permite ao programador passar instruções de processamento ao computador.
@@ -40,7 +41,7 @@ Proramar é resolver problemas usando algoritmos. Algoritmo é uma sequência de
 <img src="https://user-images.githubusercontent.com/36556279/128284472-867902b0-840a-43e6-9513-364269d814bc.png" width = "600px" />
 </div>
 
-Linguagens de programação geraalmente precisam ser instaladas como se pode ver nesse [tutorial para instalar o JDK da linguagem Java no Windows.](https://techexpert.tips/pt-br/windows-pt-br/instalar-java-jdk-no-windows/#:~:text=Tutorial%20Windows%20-%20Instalar%20Java%20JDK%20Acesse%20o,Next.%20Aguarde%20a%20finaliza%C3%A7%C3%A3o%20da%20instala%C3%A7%C3%A3o%20Java%20JDK.)
+Linguagens de programação geralmente precisam ser instaladas como se pode ver nesse [tutorial para instalar o JDK da linguagem Java no Windows.](https://techexpert.tips/pt-br/windows-pt-br/instalar-java-jdk-no-windows/#:~:text=Tutorial%20Windows%20-%20Instalar%20Java%20JDK%20Acesse%20o,Next.%20Aguarde%20a%20finaliza%C3%A7%C3%A3o%20da%20instala%C3%A7%C3%A3o%20Java%20JDK.)
 
 ### O que são paradigmas de programação?
 
@@ -61,7 +62,7 @@ A programação orientada a objetos surgiu com o objetivo de aproximar a program
 
 ### O que é um sistema operacional?
 
-Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis, como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
+Sistema operativo ou operacional é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário ou utilizador. Além dos sistemas operacionais para computadores, também há sistemas operacionais específicos para dispositivos móveis como, por exemplo, o Android, Windows Mobile, BlackBerry, entre outros.
 
 Cada sistema operacional utiliza um tipo de sistema de arquivo, que é um conjunto de rotinas e estruturas lógicas para possibilitar ao sistema operacional controlar o acesso às informações do disco rígido. As informações são armazenadas no disco rígido em trilhas e setores, mas o sistema operacional reconhece apenas uma lista de endereços conhecidos como clusters, que são conjuntos de setores. Assim, quando o sistema operacional necessita de um determinado arquivo, ele envia o endereço do cluster que deve ser lido e a controladora do disco rígido faz o restante. O sistema NTFS é utilizado pela Microsoft nas versões atuais do Windows. O sistema Ext foi criado para ser utilizado pelo sistema operacional Linux.
 
@@ -122,6 +123,12 @@ O GitLab é um gerenciador de repositório de software baseado em Git, com supor
 O SSH (Secure Socket Shell) é um protocolo de rede criptográfico para operar serviços de rede com segurança em uma rede não segura. Os aplicativos típicos incluem linha de comando remota, login e execução de comando remoto, mas qualquer serviço de rede pode ser protegido com SSH.
 
 Para saber mais sobre [o que é o SSH](https://www.weblink.com.br/blog/tecnologia/acesso-ssh-o-que-e/)
+
+### O que é o HTTP?
+
+O Hypertext Transfer Protocol, sigla HTTP, o significado em português seria "Protocolo de Transferência de Hipertexto" (hipertexto é um texto que contém links para outros textos, como por exemplo o HTML que permite o uso de links para outras páginas). É um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
+
+Para saber mais sobre [HTTP: um guia completo](https://www.alura.com.br/artigos/http)
 
 ### O que é uma rede de computadores?
 
