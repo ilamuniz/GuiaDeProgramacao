@@ -110,6 +110,10 @@ O GIT é um Sistema de Controle de Versões Distribuído — ou DVCS — desenvo
 
 [**Comandos GIT**](https://gitfichas.com/)
 
+Se precisar de ajuda para entender como o Git funciona visualmente, existe uma ferramenta interativa que ilustra o fluxo de trabalho do Git, como commits, branches, merges, e o processo de repositórios locais e remotos. Ao usar essa ferramenta, você pode ver como as alterações no repositório são registradas, como o histórico de commits se forma e como os diferentes comandos do Git (como git commit, git merge, git branch) afetam o estado do repositório. A visualização torna o aprendizado do Git mais acessível e ajuda a esclarecer como ele funciona por trás das cenas, de forma dinâmica e fácil de entender.
+
+[Visualize o GIT](https://git-school.github.io/visualizing-git/)
+
 ### O que é o Github?
 
 GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
