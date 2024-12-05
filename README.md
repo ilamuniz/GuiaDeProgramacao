@@ -31,6 +31,8 @@
 ### O que faz um programador?
 É o profissional que escreve, desenvolve ou faz manutenção de software em um grande sistema ou alguém que desenvolve software para uso em computadores pessoais.
 
+Uma ferramenta prática e eficiente para desenvolvedores que querem um acesso rápido a comandos, sintaxes e dicas essenciais para trabalhar com diversas tecnologias é o site [Devhints.io](https://devhints.io/). Ele oferece uma coleção de "cheat sheets" (folhas de dicas) sobre várias tecnologias de desenvolvimento de software, como linguagens de programação (Python, JavaScript, Ruby), ferramentas de versionamento (Git), bancos de dados (SQL, MongoDB), frameworks de desenvolvimento web (React, Vue), entre outros. Essas cheat sheets são documentos concisos e diretos, que funcionam como resumos rápidos para ajudar programadores a relembrar ou aprender comandos e sintaxes comuns de diversas linguagens, ferramentas e frameworks.
+
 ### O que são algoritmos?
 Programar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico. É um conjunto de instruções estruturadas e ordenadas com o objetivo de realizar uma tarefa ou operação específica. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
 
@@ -112,7 +114,7 @@ O GIT é um Sistema de Controle de Versões Distribuído — ou DVCS — desenvo
 
 Se precisar de ajuda para entender como o Git funciona visualmente, existe uma ferramenta interativa que ilustra o fluxo de trabalho do Git, como commits, branches, merges, e o processo de repositórios locais e remotos. Ao usar essa ferramenta, você pode ver como as alterações no repositório são registradas, como o histórico de commits se forma e como os diferentes comandos do Git (como git commit, git merge, git branch) afetam o estado do repositório. A visualização torna o aprendizado do Git mais acessível e ajuda a esclarecer como ele funciona por trás das cenas, de forma dinâmica e fácil de entender.
 
-[Visualize o GIT](https://git-school.github.io/visualizing-git/)
+[**Visualize o GIT**](https://git-school.github.io/visualizing-git/)
 
 ### O que é o Github?
 
