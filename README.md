@@ -24,6 +24,8 @@
 - 🚪 O que é uma porta de rede?
 - ⚡ Métodos Ágeis
 - :pencil2: Padroẽs de Projeto (Design Patterns)
+- ✔️ A importância dos testes
+- 👊 Entendendo o JSON Schema
 - 📋 Informações complementares e links úteis
 - ☀️ Listas de Atalhos de IDEs e demais ferramentas
 - 🔨 Ferramentas auxiliares
@@ -165,6 +167,16 @@ Os protocolos que usam principalmente portas são os protocolos da camada de tra
 Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software. Cada padrão é como uma planta de construção que você pode customizar para resolver um problema de projeto particular em seu código.
 
 Saiba mais [aqui](https://refactoring.guru/pt-br/design-patterns)
+
+## A importância dos testes
+
+Tão importante quanto entregar o software rapidamente é entregar rapidamente preservando a qualidade. E, para fazer isso da forma mais rápida possível, a melhor opção é a automatização de todo o processo - da construção aos testes, implantação e infraestrutura.
+
+[Esse artigo](https://martinfowler.com/articles/practical-test-pyramid.html) pode detalhar melhor sobre o assunto. Ou pode preferir a versão [em português](https://github.com/paulojunior-ufla/piramide-de-teste-pratica).
+
+## Entendendo o JSON Schema
+
+O JSON Schema é uma especificação usada para descrever e validar a estrutura de dados em formato JSON (JavaScript Object Notation), que é um formato comum para troca de dados na web. O site [JSON Schema](https://json-schema.org/understanding-json-schema) é uma plataforma que fornece documentação e recursos para compreender e utilizar o JSON Schema. A principal proposta do site é ensinar como usar o JSON Schema para validar e definir estruturas de dados JSON de forma mais eficiente e sem erros. Ele apresenta de forma clara os conceitos fundamentais, suas funcionalidades e as melhores práticas para utilizá-lo.
 
 ## Informações complementares e links úteis
 
