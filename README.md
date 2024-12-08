@@ -35,6 +35,8 @@
 
 Uma ferramenta prática e eficiente para desenvolvedores que querem um acesso rápido a comandos, sintaxes e dicas essenciais para trabalhar com diversas tecnologias é o site [Devhints.io](https://devhints.io/). Ele oferece uma coleção de "cheat sheets" (folhas de dicas) sobre várias tecnologias de desenvolvimento de software, como linguagens de programação (Python, JavaScript, Ruby), ferramentas de versionamento (Git), bancos de dados (SQL, MongoDB), frameworks de desenvolvimento web (React, Vue), entre outros. Essas cheat sheets são documentos concisos e diretos, que funcionam como resumos rápidos para ajudar programadores a relembrar ou aprender comandos e sintaxes comuns de diversas linguagens, ferramentas e frameworks.
 
+Para mais detalhes sobre áreas de atuação da programação, consulte o [segundo README](README_2.md) desse repositório.
+
 ### O que são algoritmos?
 Programar é resolver problemas usando algoritmos. Algoritmo é uma sequência de etapas lógicas organizadas de maneira a solucionar um problema específico. É um conjunto de instruções estruturadas e ordenadas com o objetivo de realizar uma tarefa ou operação específica. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
 
