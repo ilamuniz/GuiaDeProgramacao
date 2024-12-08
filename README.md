@@ -70,6 +70,8 @@ Sistema operativo ou operacional é um programa ou um conjunto de programas cuja
 
 Cada sistema operacional utiliza um tipo de sistema de arquivo, que é um conjunto de rotinas e estruturas lógicas para possibilitar ao sistema operacional controlar o acesso às informações do disco rígido. As informações são armazenadas no disco rígido em trilhas e setores, mas o sistema operacional reconhece apenas uma lista de endereços conhecidos como clusters, que são conjuntos de setores. Assim, quando o sistema operacional necessita de um determinado arquivo, ele envia o endereço do cluster que deve ser lido e a controladora do disco rígido faz o restante. O sistema NTFS é utilizado pela Microsoft nas versões atuais do Windows. O sistema Ext foi criado para ser utilizado pelo sistema operacional Linux.
 
+Para mais detalhes, veja esse [artigo](https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura).
+
 ### O que são estruturas de dados?
 
 É uma estrutura que armazena e organiza dados/informações de modo que os dados possam ser acessados e manipulados de forma eficiente. Essas estruturas encontram muitas aplicações no desenvolvimento e sistemas, sendo que algumas são altamente especializadas e utilizadas em tarefas específicas. Usando as estruturas adequadas através de algoritmos, podemos trabalhar com uma grande quantidade de dados, como aplicações em bancos de dados ou serviços de busca.
